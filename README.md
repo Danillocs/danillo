@@ -1,4 +1,4 @@
-# SocializeIA: Plataforma de Inclusão e Interação para Crianças Autistas ;)
+# SocializeIA: Plataforma de Inclusão e Interação para Crianças Autistas
 
 ## 📒 Descrição
 Esse projeto tem o potencial de transformar a forma como crianças autistas interagem em sala de aula, proporcionando um ambiente mais inclusivo e favorável ao desenvolvimento social. A aplicação da IA permitirá personalizar a experiência de aprendizagem e oferecer suporte direcionado, beneficiando não apenas as crianças, mas também educadores e pais.
@@ -16,5 +16,5 @@ Usei o D-ID para criar o professor onde o aluno pode perguntar as coisas para el
 ## 🚀 Resultados
 Satisfatório, acredito que agora falta fazer o teste de usabilidade da ferramenta e tudo vai ser testado e refinado de uma forma que a meu ver vai ser bem eficiente.
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão 
 Venho etudando bastante sobre o tema, e aprendi a operar diversas ferramentas de IA algumas muito eficientes outras nem tanto, minha mente está mais criativa com o uso delas, achei que seria algo impossivel de fazer mas estou me sentindo mais a vontade com o passar do tempo, foi uma experiência fenomenal esse projeto
